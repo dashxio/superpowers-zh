@@ -1,0 +1,20 @@
+{
+  "name": "superpowers-zh",
+  "description": "Superpowers 核心技能库中文版 — TDD、调试、协作模式等经过验证的开发技巧",
+  "owner": {
+    "name": "Jesse Vincent",
+    "email": "jesse@fsck.com"
+  },
+  "plugins": [
+    {
+      "name": "superpowers-zh",
+      "description": "Superpowers 核心技能库（中文版）：TDD、调试、协作模式和经过验证的开发技巧 — Core skills library for Claude Code: TDD, debugging, collaboration patterns, and proven techniques (Chinese localization)",
+      "version": "6.1.1",
+      "source": "./",
+      "author": {
+        "name": "Jesse Vincent",
+        "email": "jesse@fsck.com"
+      }
+    }
+  ]
+}
